@@ -19,7 +19,7 @@ Me chamo Hiago Gimenez, tenho 16 anos e estudo na Universidade Tecnologica Feder
 
 </div>
 
-## 📐 Estatísticas
+## 📐 Estatísticas:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gimenezhiago&bg_color=0d1117&color=70A5FD&line=70A5FD&point=5e9bfd&area=true&hide_border=true&area=true&height=300&custom_title=Last+30+days+commits)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
