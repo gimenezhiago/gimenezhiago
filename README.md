@@ -15,7 +15,7 @@ Me chamo Hiago Gimenez, tenho 16 anos e estudo na Universidade Tecnologica Feder
 
 <h2 align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css,mysql,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css,mysql,c,git,github)](https://skillicons.dev)
 
 </div>
 
