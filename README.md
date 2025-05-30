@@ -1,12 +1,12 @@
 ## 🛠️ Sobre mim:
 
-Me chamo Hiago Gimenez, tenho 16 anos e estudo na Universidade Tecnologica Federal do Paraná (UTFPR). Estou cursando o segundo período do curso técnico em informática para internet.
+Me chamo Hiago Gimenez, tenho 17 anos e estudo na Universidade Tecnologica Federal do Paraná (UTFPR). Estou cursando o terceiro período do curso técnico em informática para internet.
 
 ## 🔎 Contatos:
 
 <div align="center">
 <a href="https://instagram.com/gimenez_hiago" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="mailto:hiagogimenezvieira888@gmail.com">
+<a href="mailto:hiagogimenez@alunos.utfpr.edu.br">
 <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
@@ -15,7 +15,7 @@ Me chamo Hiago Gimenez, tenho 16 anos e estudo na Universidade Tecnologica Feder
 
 <h2 align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css,mysql,c,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css,mysql,c,git,github,mongodb)](https://skillicons.dev)
 
 </div>
 
